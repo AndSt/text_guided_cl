@@ -1,0 +1,22 @@
+datasets
+transformers
+accelerate
+evaluate
+
+torch
+tensorboard
+
+# vision
+opencv-python
+
+spacy
+sentence-transformers
+numpy
+scikit-learn
+Pillow
+h5py
+matplotlib
+
+# helpers
+# slurm_utils
+absl-py
